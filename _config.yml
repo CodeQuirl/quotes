@@ -7,7 +7,7 @@
 
 #######################################################################################
 # Book settings
-title                       : Famous Computer Science Quotes  # The title of the book. Will be placed in the left navbar.
+title                       : Quotes  # The title of the book. Will be placed in the left navbar.
 author                      : Robert Haase  # The author of the book
 copyright                   : "2024"  # Copyright year to be placed in the footer
 logo                        : logo.png  # A path to the book logo
@@ -19,7 +19,7 @@ execute:
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/scads/famous_computer_science_quotes  # Online location of your book
+  url: https://github.com/codequirl/quotes  # Online location of your book
   path_to_book: docs  # Optional path to your book, relative to the repository root
   branch: main  # Which branch of the repository should be used when creating links (optional)
 
